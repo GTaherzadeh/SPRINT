@@ -6,5 +6,5 @@ Cite: Taherzadeh, G., Yang, Y., Zhang, T., Liew, A. W. C., & Zhou, Y. (2016). Se
 Instruction:
 * Protein-peptide dataset are stored in Data directory. Dataset file contains protein sequences labeled as 1 and 0 for binding and non-binding residues, respectively. Train and test files contain actual binding residues used in this study.
 * Run ./SPRINT.py for feature extraction and peptide binding site prediction.
-* Find the pre-trained model and protein-peptide complexes in pdb format in Release.
+* The pre-trained model and protein-peptide complexes in pdb format are store as LargeFiles in Release.
 
