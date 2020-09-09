@@ -4,7 +4,7 @@ Protein-peptide interactions are essential for all cellular processes including 
 Cite: Taherzadeh, G., Yang, Y., Zhang, T., Liew, A. W. C., & Zhou, Y. (2016). Sequence‐based prediction of protein–peptide binding sites using support vector machine. Journal of computational chemistry, 37(13), 1223-1229.
 
 Instruction:
-* Protein sequences are labeled as 1 and 0 for binding and non-binding residues, respectively.
+* Protein-peptide dataset are stored in Data directory. Dataset file contains protein sequences labeled as 1 and 0 for binding and non-binding residues, respectively. Train and test files contain actual binding residues used in this study.
 * Run ./SPRINT.py for feature extraction and peptide binding site prediction.
 * Find the pre-trained model and protein-peptide complexes in pdb format in Release.
 
